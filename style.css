@@ -1,0 +1,180 @@
+body {
+  background-color: black;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+.tribute {
+  text-align: center;
+  color: white;
+}
+
+.project {
+  height: 300px;
+  width: 300px;
+  margin-top: 25px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+hr {
+  border: dotted white 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 40px auto;
+}
+
+p {
+  color: white;
+  line-height: 2;
+  margin-bottom: 33.2px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+a {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-decoration: none;
+  color: white;
+  font-size: 19px;
+  font-weight: 200px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+table,
+th,
+td {
+  text-align: center;
+  border: 1px solid white;
+  color: white;
+  width: 50%;
+  margin-left: 380px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+.first {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.second {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.third {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.fourth {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.fifth {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.sixth {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.seventh {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.eigth {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.ninth {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.tenth {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.eleventh {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+
+.twelth {
+  display: inline-block;
+  margin: 15px 10px;
+  width: 290px;
+  height: 290px;
+}
+.copyright {
+  color: #eaf6f6;
+  padding: 20px 0;
+  font-size: 0.74rem;
+}
+.bottom-container {
+  background-color: black;
+  padding: 30px 0 0;
+  margin-top: 10px;
+  color: white;
+}
+.design {
+  font-family: "Pacifico", cursive;
+  font-size: 30px;
+}
+
+.abc {
+  color: white;
+}
+
+.abc:hover {
+  color: #7e0101;
+}
+.design1 {
+  font-size: 20px;
+}
+.designing:hover {
+  color: #7e0101;
+}
